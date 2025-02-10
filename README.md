@@ -1,4 +1,4 @@
 # Unit-6-Lesson-3
-In progress
+Completed assignment
 
 Group members: Ari and Johnson
